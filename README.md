@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-count-operations-to-obtain-zero](https://github.com/priyanshu2008sheoran-debug/FOCP-I_C_Programming_Workspace_/tree/master/2169-count-operations-to-obtain-zero) |
 | [2413-smallest-even-multiple](https://github.com/priyanshu2008sheoran-debug/FOCP-I_C_Programming_Workspace_/tree/master/2413-smallest-even-multiple) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/priyanshu2008sheoran-debug/FOCP-I_C_Programming_Workspace_/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2651-calculate-delayed-arrival-time](https://github.com/priyanshu2008sheoran-debug/FOCP-I_C_Programming_Workspace_/tree/master/2651-calculate-delayed-arrival-time) |
 ## Number Theory
 |  |
 | ------- |
